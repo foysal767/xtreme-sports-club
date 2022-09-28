@@ -21,6 +21,13 @@ const Activities = () => {
             <div className='personal-info'>
                 <h4>Mohammad Foysal Uddin</h4>
                 <p>Web Developer</p>
+                <h5>Add a Break</h5>
+                <div className='break-container'>
+                    <p>15min</p>
+                    <p>30min</p>
+                    <p>45min</p>
+                    <p>60min</p>
+                </div>
             </div>
         </div>
     );
