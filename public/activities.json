@@ -1,0 +1,38 @@
+[
+    {
+        "id": "01-cricket-01",
+        "name": "Cricket",
+        "image": "../images/cricket.jpg",
+        "time": "180"
+    },
+    {
+        "id": "02-football-02",
+        "name": "Football",
+        "image": "../images/football.jpeg",
+        "time": "90"
+    },
+    {
+        "id": "03-volleyball-03",
+        "name": "Volleyball",
+        "image": "../images/volleyballmen.jpg",
+        "time": "120"
+    },
+    {
+        "id": "04-golf-04",
+        "name": "Golf",
+        "image": "../images/golf.jpg",
+        "time": "135"
+    },
+    {
+        "id": "05-kabadi-05",
+        "name": "Kabadi",
+        "image": "../images/kabadi.jpg",
+        "time": "60"
+    },
+    {
+        "id": "06-basketball-06",
+        "name": "Basketball",
+        "image": "../images/basketball.jpg",
+        "time": "110"
+    }
+]
