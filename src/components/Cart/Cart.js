@@ -9,8 +9,7 @@ const Cart = (props) => {
             <img src={image} alt="" />
             <div className='activity-info'>
                 <h3 className='activity-name'>{name}</h3>
-                <p>Some text Here</p>
-                <p>Times: {time}</p>
+                <p>Times: {time} min</p>
             </div>
             <button className='btn-cart'>Add to List</button>
         </div>
