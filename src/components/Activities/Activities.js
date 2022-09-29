@@ -6,7 +6,7 @@ import "./Activities.css";
 
 const Activities = () => {
     const [activities, setActivities] = useState([]);
-    const [info, setInfo] = useState([])
+    const [info, setInfo] = useState([]);
     useEffect( () => {
         fetch("activities.json")
         .then(res => res.json())
