@@ -9,13 +9,17 @@ const Activities = () => {
         .then(res => res.json())
         .then(data => setActivities(data))
     }, [])
+    const handleAddToList = (activity) => {
+        console.log(activity)
+    }
     return (
         <div className='page-container'>
             <div className='activities-container'>
             {
                 activities.map(activity => <Cart
                 key={activity.id}
-                activity={activity}></Cart>)
+                activity={activity}
+                handleAddToList={handleAddToList}></Cart>)
             }
             </div>
             <div className='personal-info'>
