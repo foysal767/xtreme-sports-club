@@ -1,0 +1,46 @@
+
+.personal-info h4 {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.personal-info p {
+    padding: 0px;
+    margin: 0px;
+}
+.break-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 5px;
+    margin: 0 5px;
+}
+.break-container p{
+    background-color: aliceblue;
+    border-radius: 5px;
+    padding: 20px 0;
+    cursor: pointer;
+}
+.exercise-details {
+    text-align: left;
+    margin-left: 8%;
+}
+.exercise-time {
+    padding: 10px 5px;
+    background-color: aliceblue;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+.break-time {
+    padding: 10px 5px;
+    background-color: aliceblue;
+    border-radius: 8px;
+}
+.btn-activity {
+    width: 90%;
+    background-color: darkturquoise;
+    padding: 15px 0;
+    margin-top: 8%;
+    border: 0px;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 16px;
+}
