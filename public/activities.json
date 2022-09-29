@@ -4,41 +4,41 @@
         "name": "Cricket",
         "description": "Cricket is a bat-and-ball game played between two teams of eleven players on a field at the centre of which is a 22-yard (20-metre) pitch with a wicket at each end, each comprising two bails balanced on three stumps.",
         "image": "../images/cricket.jpg",
-        "time": "180"
+        "time": 180
     },
     {
         "id": "02-football-02",
         "name": "Football",
         "description": "Football is a family of team sports that involve, to varying degrees, kicking a ball to score a goal. Unqualified, the word football normally means the form of football that is the most popular where the word is used",
         "image": "../images/football.jpeg",
-        "time": "90"
+        "time": 90
     },
     {
         "id": "03-volleyball-03",
         "name": "Volleyball",
         "description": "Volleyball is a team sport in which two teams of six players are separated by a net. Each team tries to score points by grounding a ball on the other team's court under organized rules.",
         "image": "../images/volleyballmen.jpg",
-        "time": "120"
+        "time": 120
     },
     {
         "id": "04-golf-04",
         "name": "Golf",
         "description": "Golf, unlike most ball games, cannot and does not use a standardized playing area, and coping with the varied terrains encountered on different courses is a key part of the game. Courses typically have 18 or 9 holes, although they may have another number of holes.",
         "image": "../images/golf.jpg",
-        "time": "135"
+        "time": 135
     },
     {
         "id": "05-kabaddi-05",
         "name": "Kabaddi",
         "description": "Kabaddi is a contact team sport. Played between two teams of seven players, the objective of the game is for a single player on offence, referred to as a raider, to run into the opposing team's half of a court, touch out as many of their defenders as possible, and return to their own half of the court, all without being tackled by the defenders, and in a single breath.",
         "image": "../images/kabadi.jpg",
-        "time": "60"
+        "time": 60
     },
     {
         "id": "06-basketball-06",
         "name": "Basketball",
         "description": "Basketball is a team sport in which two teams, most commonly of five players each.",
         "image": "../images/basketball.jpg",
-        "time": "110"
+        "time": 110
     }
 ]
