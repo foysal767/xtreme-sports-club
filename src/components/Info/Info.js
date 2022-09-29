@@ -20,7 +20,7 @@ const Info = (props) => {
                 </div>
                 <div className='exercise-details'>
                     <h4>Exercise Details</h4>
-                    <div className='exercise-time'>Exercise time: {time}</div>
+                    <div className='exercise-time'>Exercise time: <span>{time} mins</span> </div>
                     <div className='break-time'>Break Time: </div>
                 </div>
                 <button className='btn-activity'>Activity Completed</button>

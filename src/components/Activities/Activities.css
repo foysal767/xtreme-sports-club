@@ -7,7 +7,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
-    margin: 100px 50px;
+    margin: 25px 50px;
 }
 .personal-info {
     background-color: bisque;
@@ -56,6 +56,16 @@
     border-radius: 8px;
     font-weight: 700;
     font-size: 16px;
+}
+.menu {
+    display: flex;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+.menu img{
+    width: 70px;
+    height: 70px;
+    margin-right: 1%;
 }
 
 @media (max-width: 540px){

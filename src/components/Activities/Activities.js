@@ -18,6 +18,12 @@ const Activities = () => {
     }
     return (
         <div className='page-container'>
+            <div>
+                <nav className='menu'>
+                    <img src="https://p.kindpng.com/picc/s/22-229918_night-club-logo-png-images-club-logo-png.png" alt="" />
+                    <h2>Xtreme Sporte Club</h2>
+                </nav>
+                
             <div className='activities-container'>
             {
                 activities.map(activity => <Cart
@@ -25,6 +31,7 @@ const Activities = () => {
                 activity={activity}
                 handleAddToList={handleAddToList}></Cart>)
             }
+            </div>
             </div>
             <div className='personal-info'>
                 <Info info={info}></Info>
